@@ -1,0 +1,17 @@
+div.w {
+    background-color: black;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.w a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.w a:hover {
+    background-color: #777;
+  }
